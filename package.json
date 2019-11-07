@@ -1,0 +1,24 @@
+{
+  "name": "Sequelizedburger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DPorter88/Sequelizedburger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DPorter88/Sequelizedburger/issues"
+  },
+  "homepage": "https://github.com/DPorter88/Sequelizedburger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
